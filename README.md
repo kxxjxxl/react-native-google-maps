@@ -1,4 +1,4 @@
-This is an example of google maps SDK integration for react-native project.
+This is a practice implementation of google maps SDK integration for react-native project.
 
 
 
