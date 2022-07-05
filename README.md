@@ -1,6 +1,6 @@
 This is an example of google maps SDK integration for react-native project.
 
-**Warning**: ReactNativeGoogleMaps is a proof of concept, if you have problems or feature requests, please open an issue.
+
 
 # Requirements
 - React Native 0.4.4 or compatible
